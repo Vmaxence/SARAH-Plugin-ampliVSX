@@ -1,0 +1,10 @@
+
+.plugin-gridster.ampliVSX .front {
+  background: #FFFFFF url('ampliVSX.jpg') center 10px;
+  background-size:   150px 150px;
+  background-repeat: no-repeat;
+}
+
+.plugin-gridster.ampliVSX .back {
+  background: #FFFFFF;
+}

@@ -1,0 +1,10 @@
+{
+  "modules" : { 
+    "ampliVSX"  : {
+      "description": "Permet de commander un ampli VSX.",
+      "version" : "1.0",
+      "ip_ampli": "empty",
+      "port_ampli": "empty"
+    }
+  }
+}
